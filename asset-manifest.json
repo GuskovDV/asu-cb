@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/asu-cb/static/css/main.60a18bb5.css",
+    "main.js": "/asu-cb/static/js/main.99c654b4.js",
+    "index.html": "/asu-cb/index.html",
+    "main.60a18bb5.css.map": "/asu-cb/static/css/main.60a18bb5.css.map",
+    "main.99c654b4.js.map": "/asu-cb/static/js/main.99c654b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a18bb5.css",
+    "static/js/main.99c654b4.js"
+  ]
+}
